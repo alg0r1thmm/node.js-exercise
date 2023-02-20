@@ -1,7 +1,9 @@
 # node.js-exercise
 
-Node.js로 서버 만들기 클론 코드 및 연습
+* Node.js로 서버 만들기 도서 정리
+* 각 챕터별로 클론 코드 작성 및 주석으로 내용 정리
 
+<br/>
 
 # Ch2
 * JavaScript 다시 작성해보기
