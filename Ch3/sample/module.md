@@ -6,6 +6,8 @@
 |module.exports|객체에 하나의 값(원시 타입, 함수, 객체)만 할당 가능|module.exports 객체에 할당된 값 자체를 require()를 통해 전달|
 
 
+
+
 ```
 project/
 ├── app.js
@@ -16,5 +18,7 @@ project/
 
 const Root = require('./module');
 ```
+
+
 
 * module/ directory 하나만 require 할 시 내부에있는 index.js, calc.js, priont.js 모두 사용 가능
