@@ -1,4 +1,4 @@
-#모듈을 내보내는 방식
+# 모듈을 내보내는 방식
 
 |구분|정의 방식|require() 호출|
 |------|---|---|
@@ -6,10 +6,6 @@
 |module.exports|객체에 하나의 값(원시 타입, 함수, 객체)만 할당 가능|module.exports 객체에 할당된 값 자체를 require()를 통해 전달|
 
 <br/>
-<br/>
-<br/>
-
-
 
 ```
 project/
@@ -22,7 +18,4 @@ project/
 const Root = require('./module');
 ```
 <br/>
-
-
-
 * module/ directory 하나만 require 할 시 내부에있는 index.js, calc.js, priont.js 모두 사용 가능
