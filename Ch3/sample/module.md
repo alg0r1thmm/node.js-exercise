@@ -9,6 +9,8 @@
 <br/>
 <br/>
 
+
+
 ```
 project/
 ├── app.js
@@ -19,5 +21,11 @@ project/
 
 const Root = require('./module');
 ```
+<<<<<<< HEAD
 <br/>
+=======
+
+
+
+>>>>>>> 90ae01c904be9acf07737a592876f96a6ae3e452
 * module/ directory 하나만 require 할 시 내부에있는 index.js, calc.js, priont.js 모두 사용 가능
