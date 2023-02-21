@@ -19,3 +19,4 @@ const Root = require('./module');
 ```
 <br/>
 * module/ directory 하나만 require 할 시 내부에있는 index.js, calc.js, priont.js 모두 사용 가능
+ 
