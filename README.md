@@ -15,3 +15,4 @@
 * npm module 설치 및 간단한 사용법
 * require 와 export 사용법
 * http 모듈로 서버 만들기
+* express 설치 및 간단한 코드 작성
