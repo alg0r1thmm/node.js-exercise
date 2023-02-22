@@ -16,3 +16,9 @@
 * require 와 export 사용법
 * http 모듈로 서버 만들기
 * express 설치 및 간단한 코드 작성
+
+<br/>
+
+# Ch4
+* Open API 활용
+* request 설치 및 간단한 코드 실습
