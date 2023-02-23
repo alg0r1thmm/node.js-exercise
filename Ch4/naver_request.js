@@ -13,8 +13,8 @@ app.use(express.urlencoded({ extended : true}));
 
 /* setting route */
 app.get('/', (req, res) => {
-    const client_id = 'XXX';
-    const client_secret = 'XXX';
+    const client_id = '';
+    const client_secret = '';
     const api_url = 'https://openapi.naver.com/v1/search/news?query='
                     + encodeURI('코스피');
     const option = {
