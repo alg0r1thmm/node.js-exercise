@@ -12,5 +12,5 @@
 |------|---|---|
 |GET/|/categoty/2/books|카테고리 번호가 2인 책의 정보를 조회|
 |POST/|/categoty/2/books|새로 들어온 책의 정보를 등록|
-|PUT/|/categoty/2/books/4|책 번호가 4인 책의 정보를 변겅|
+|PUT/|/categoty/2/books/4|책 번호가 4인 책의 정보를 변|
 |DELETE/|/categoty/2/books/4|책 번호가 4인 책의 정보를 삭제|
